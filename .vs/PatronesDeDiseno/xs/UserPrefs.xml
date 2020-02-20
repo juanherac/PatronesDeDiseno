@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{012621A1-22B4-46D9-81D1-AF4E8F8414AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.PatronesDeDiseno PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml.cs">
+    <Files>
+      <File FileName="Pages/Index.cshtml.cs" Line="28" Column="28" />
+      <File FileName="Strategy/Interfaces/IEstrategia.cs" Line="6" Column="25" />
+      <File FileName="Strategy/ClasesAbstractas/AAnalisisSimple.cs" Line="8" Column="9" />
+      <File FileName="Strategy/ClasesAbstractas/AAnalisisAvanzado.cs" Line="14" Column="27" />
+      <File FileName="Strategy/Clases/AnalisisSimple.cs" Line="20" Column="60" />
+      <File FileName="Strategy/Clases/AnalisisAvanzado.cs" Line="7" Column="6" />
+      <File FileName="Strategy/Clases/Contexto.cs" Line="11" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronesDeDiseno" expanded="True">
+            <Node name="PatronesDeDiseno" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Index.cshtml" expanded="True">
+                  <Node name="Index.cshtml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Strategy" expanded="True">
+                <Node name="Clases" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

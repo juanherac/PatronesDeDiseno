@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+
+  <ItemGroup>
+    <Folder Include="Factory\" />
+    <Folder Include="Factory\Clases\" />
+    <Folder Include="Factory\Interfaces\" />
+    <Folder Include="Mediator\" />
+    <Folder Include="Mediator\Interfaces\" />
+    <Folder Include="Mediator\ClasesAbstractas\" />
+    <Folder Include="Mediator\Clases\" />
+    <Folder Include="Singleton\" />
+    <Folder Include="Decorator\" />
+    <Folder Include="Decorator\Clases\" />
+    <Folder Include="Decorator\ClasesAbstractas\" />
+    <Folder Include="Decorator\Interfaces\" />
+    <Folder Include="Observer\" />
+    <Folder Include="Observer\ClasesAbstractas\" />
+    <Folder Include="Observer\Clases\" />
+    <Folder Include="Strategy\" />
+    <Folder Include="Strategy\Interfaces\" />
+    <Folder Include="Strategy\ClasesAbstractas\" />
+    <Folder Include="Strategy\Clases\" />
+  </ItemGroup>
+</Project>
