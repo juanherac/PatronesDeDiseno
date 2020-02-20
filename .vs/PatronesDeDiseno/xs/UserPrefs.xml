@@ -3,12 +3,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Pages/Index.cshtml.cs">
     <Files>
       <File FileName="Pages/Index.cshtml.cs" Line="28" Column="28" />
-      <File FileName="Strategy/Interfaces/IEstrategia.cs" Line="6" Column="25" />
-      <File FileName="Strategy/ClasesAbstractas/AAnalisisSimple.cs" Line="8" Column="9" />
-      <File FileName="Strategy/ClasesAbstractas/AAnalisisAvanzado.cs" Line="14" Column="27" />
-      <File FileName="Strategy/Clases/AnalisisSimple.cs" Line="20" Column="60" />
-      <File FileName="Strategy/Clases/AnalisisAvanzado.cs" Line="7" Column="6" />
-      <File FileName="Strategy/Clases/Contexto.cs" Line="11" Column="10" />
+      <File FileName="Strategy/Interfaces/IEstrategia.cs" />
+      <File FileName="Strategy/ClasesAbstractas/AAnalisisSimple.cs" />
+      <File FileName="Strategy/ClasesAbstractas/AAnalisisAvanzado.cs" />
+      <File FileName="Strategy/Clases/AnalisisSimple.cs" />
+      <File FileName="Strategy/Clases/AnalisisAvanzado.cs" />
+      <File FileName="Strategy/Clases/Contexto.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -26,9 +26,6 @@
             </Node>
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
